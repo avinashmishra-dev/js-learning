@@ -1,2 +1,2 @@
 # js-learning
-Learning - JavaScript The Complete Guide by Maximilian Schwarzmuller (Udemy) 
+Learning - JavaScript The Complete Guide by Maximilian Schwarzmuller(Udemy) 
